@@ -1,0 +1,8 @@
+First run the Setup.py, if there appears a Error or it just closes again, dont worry. 
+That just means you already have everything required for this tool downloaded!
+Input your bot token and the ID of the server u want to nuke in "config.json" 
+Run "Main Nuker.exe" and press "h" on your keyboard to see all the commands! 
+
+Thanks for using my nuker! For further instructions (if needed) DM me " dx?#0314" or join my discord server https://discord.gg/pmAFWhgstj
+
+I AM NOT RESPONSABLE FOR YOUR USE WITH THIS TOOL BTW!
